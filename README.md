@@ -73,9 +73,11 @@ The output CSV will have columns:
 
 **This project is ideal for anyone looking to automate the collection of smartphone data for price comparison, market analysis, or research.**
 
+---
 
 # You might have a question, How can I customize this scraper to target different product categories or sites? Here's how.
 
+---
 
 ## Customizing the Scraper for Different Product Categories or Sites
 
