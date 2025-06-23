@@ -1,4 +1,4 @@
-## Amazon Smartphone Scraper
+# Amazon Smartphone Scraper
 
 This project provides a Python script to automatically scrape details of smartphones under ₹20,000 from Amazon India. Using a combination of Selenium and BeautifulSoup, the script collects product names, prices, ratings, review counts, and links, and saves the data to a CSV file for further analysis.
 
@@ -74,7 +74,8 @@ The output CSV will have columns:
 **This project is ideal for anyone looking to automate the collection of smartphone data for price comparison, market analysis, or research.**
 
 
-## You might have a question, How can I customize this scraper to target different product categories or sites? Here's how.
+# You might have a question, How can I customize this scraper to target different product categories or sites? Here's how.
+
 
 ## Customizing the Scraper for Different Product Categories or Sites
 
